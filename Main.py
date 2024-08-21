@@ -19,9 +19,10 @@ def invoke(action, **params):
     return response['result']
 def main():
     api = dados.api
+    deckName = "Olá Mundo"
     for key in api.keys():
         invoke('addNote', note = {
-                "deckName": "Inglês com Pedro Galvão",
+                "deckName": f'{deckName}',
                 "modelName": "Basic",
                 "fields": {
                     "Front": api[key]['frente'],
