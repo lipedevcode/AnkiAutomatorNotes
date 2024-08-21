@@ -14,3 +14,25 @@ For example:
 - Even practicing guitar chords!
 ### Why use this automator?
 If you need to write a lot of sentences, this program can help you minimize the work of doing so.
+### [Installation server Anki](https://foosoft.net/projects/anki-connect/)
+Follow the instructions: https://foosoft.net/projects/anki-connect/
+### How to use this program?
+In the Data.py file, there is a variable 'texto_extraido' in which you insert the text with the following formatting:
+```ruby
+texto_extraido = """
+Frase 1
+  Frente:
+  Hello World!
+  Verso: 
+  Olá Mundo!
+Frase 2
+  Frente:
+  -------
+  Verso:
+  -------
+"""
+```
+In Main.py, there is a variable 'deckName' in which you enter the name of the Deck:
+```ruby
+deckName = "Learn English"
+```
