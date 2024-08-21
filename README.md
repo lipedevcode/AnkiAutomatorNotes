@@ -14,6 +14,8 @@ For example:
 - Even practicing guitar chords!
 ### Why use this automator?
 If you need to write a lot of sentences, this program can help you minimize the work of doing so.
+### [Download Anki](https://apps.ankiweb.net/)
+
 ### [Installation server Anki](https://foosoft.net/projects/anki-connect/)
 Follow the instructions: https://foosoft.net/projects/anki-connect/
 ### How to use this program?
