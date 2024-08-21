@@ -36,5 +36,5 @@ Frase 2
 ```
 In Main.py, there is a variable 'deckName' in which you enter the name of the Deck:
 ```ruby
-deckName = "Learn English"
+deckName = "Learning English"
 ```
